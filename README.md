@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://openpastpaper.com/">
-  <img width="900" src="https://github.com/ultralytics/assets/raw/main/im/banner-ultralytics-github.png"></a>
+  <img width="900" src="https://github.com/open-paper/.github/blob/main/opplogo2.png"></a>
 </p>
 
 <div align="center">
