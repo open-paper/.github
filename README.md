@@ -20,7 +20,7 @@ Join us on our mission to help every teachers and students teach and learn effic
   <a href="https://twitter.com/openpastpaper" style="text-decoration:none;">
     <img src="https://github.com/ultralytics/assets/raw/main/social/logo-social-twitter.png" width="3%" alt="" /></a>
   <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="3%" alt="" />
-  <a href="https://www.instagram.com/ultralytics/" style="text-decoration:none;">
+  <a href="https://www.instagram.com/openpastpaper/" style="text-decoration:none;">
     <img src="https://github.com/ultralytics/assets/raw/main/social/logo-social-instagram.png" width="3%" alt="" /></a>
 
 </div>
